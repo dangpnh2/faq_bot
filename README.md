@@ -16,4 +16,6 @@ csv file: each row corresponding a pair of question and answer
 ## Data for fine-tuning sentence embedding model
 - [Quora Question Pairs](https://paperswithcode.com/dataset/quora-question-pairs)
 
+## Architecture
 
+- 
