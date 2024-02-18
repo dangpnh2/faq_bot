@@ -1,5 +1,10 @@
 # FAQ Bot
 
+## TODO:
+- [ ] Handle the case below 0.8 (Phuong)
+- [ ] Create API for server side (Dang)
+- [ ] Front end? 
+
 ## Description
 
 - The system answers users' questions about content of a website.
@@ -9,6 +14,7 @@
 
 - The input questions of users will be mapped to the most similarity question existing in the database.
 - The system uses sentence embedding model to encode user's questions to compare with existing questions in the database.
+- Set threshole 0.8 to pick answer. if score < 0.8, pass question to general LM to generate answer.
 
 ## Data for database
 csv file: each row corresponding a pair of question and answer
