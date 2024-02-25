@@ -1,7 +1,7 @@
 # FAQ Bot
 
 ## TODO:
-- [ ] Handle the case below 0.8 (Phuong)
+- [x] Handle the case below 0.8 (Phuong)
 - [ ] Create API for server side (Dang)
 - [ ] Front end? 
 
