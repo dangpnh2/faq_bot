@@ -1,9 +1,8 @@
 # FAQ Bot
-python 3.8
-conda install pytorch==1.11.0 -c pytorch
-pip install transformers
-pip install -U sentence-transformers
-pip install pandas
+
+## Requirements:
+
+- Python 3.8, pytorch, transformers, sentence-transformers, pandas
 
 ## TODO:
 - [x] Handle the case below 0.8 (Phuong)
